@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="google_android_map_api_key">AIzaSyBbNf76F-53Q_fS2iLiIYKK2Vc6mMhffiM</string>
+</resources>
